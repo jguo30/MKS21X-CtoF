@@ -6,10 +6,10 @@ The functions should return the doubles that are the converted temperatures.
 */
 public class CtoFTester.java{
 
-  public static double celsiusToFahrenheit(){
+  public static double celsiusToFahrenheit(int celsius){
     
   }
-  public static double fahrenheitToCelsius(){
+  public static double fahrenheitToCelsius(int farenheit){
 
   }
 }
